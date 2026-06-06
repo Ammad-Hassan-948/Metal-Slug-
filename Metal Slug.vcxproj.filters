@@ -1,0 +1,1221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SurvivalState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeSelectState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CampaignState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SelfPlayState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformationState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MarcoRossi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DamagableEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FatState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MummyState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UndeadState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Straight Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BallisticProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplosionBehavior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Firepool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AerialVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AirEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ApproachState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AquaticVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BazookaSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collectibles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyAIState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemySub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EriKasamoto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FiolinaGermi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlameShotGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlyingState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlyingTara.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GrenadeWeapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GrenadeSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GroundEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GroundVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeavyMachineGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HoverState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LaserGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="M15ABradley.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MetalSlug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MartianAir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MartianGround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParatrooperState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PatrolState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pistol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PowPrisoner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RebelSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RocketLauncher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SlugFlyer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SlugMariner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupplyCrate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tarma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VehicleState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShieldedSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MummyWarrior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplosionVisual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HairBusterRiberts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IronNokana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaSatan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltimateBoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CampaignEnemySpawner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CampaignWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChunkManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Environment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FractalNoise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoiseProfiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PerlinNoise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProfileFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spectrum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Whisper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WavHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AerialVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AirEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Animator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ApproachState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AquaticVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AttackState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\BallisticProjectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\BazookaSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignEnemySpawner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ChunkManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Collectibles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Complex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\DamagableEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EnemyAIState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EnemySub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EntityManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Environment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EriKasamoto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ExplosionBehavior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ExplosionVisual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FatState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FiolinaGermi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Firepool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlameShotGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlyingState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlyingTara.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Food.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FractalNoise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GameStateManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GrenadeSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GrenadeWeapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GroundEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GroundVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HairBusterRiberts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HeavyMachineGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HoverState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HUD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\IronNokana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\LaserGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\LevelManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\M15ABradley.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MarcoRossi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MartianAir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MartianGround.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MetalSlug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ModeSelectState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MummyState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MummyWarrior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\NoiseProfiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\NormalState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ParatrooperState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PatrolState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PerlinNoise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Pistol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PlayerSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PowPrisoner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ProfileFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ProjectileManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\RebelSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\RocketLauncher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ScoreManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SeaSatan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SelfPlayState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ShieldedSoldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SlugFlyer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SlugMariner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Soldier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Spectrum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Straight Projectile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SupplyCrate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SurvivalState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Tarma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\TransformationState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\UltimateBoss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\UndeadState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\VehicleState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\WavHeader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Whisper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Zombie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\25I-0948_25I-0579_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameStateManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MenuState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SurvivalState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\EntityManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LevelManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TimeLineRecorder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ModeSelectState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CampaignState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SelfPlayState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DamagableEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PlayerSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Soldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TransformationState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MarcoRossi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\NormalState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Animator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FatState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MummyState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UndeadState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Straight Projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BallisticProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HorizontalProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FirePool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ProjectileManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ExplosionBehavior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AerialVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AirEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ApproachState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AquaticVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AttackState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BazookaSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Collectibles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DynamicArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\EnemyAIState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\EnemySub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\EriKasamoto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FiolinaGermi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FlameShotGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FlyingState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FlyingTara.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Food.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GrenadeSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GrenadeWeapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GroundEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GroundVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HeavyMachineGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HoverState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LaserGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\M15ABradley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MartianAir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MartianGround.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MetalSlug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ParatrooperState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PatrolState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Pistol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PowPrisoner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RebelSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RocketLauncher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ShieldedSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SlugFlyer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SlugMariner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SupplyCrate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Tarma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\VehicleState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Zombie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MummyWarrior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ExplosionVisual.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\IronNokana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HairBusterRiberts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SeaSatan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UltimateBoss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ScoreManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CampaignEnemySpawner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CampaignWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ChunkManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Environment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FractalNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GameConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\INoiseProfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\InterfaceWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\NoiseProfiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PerlinNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ProfileFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Spectrum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Whisper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WavHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\WavHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\HUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AerialVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AirEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Animator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ApproachState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AquaticVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AttackState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\BallisticProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\BazookaSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignEnemySpawner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\CampaignWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ChunkManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Collectibles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\DamagableEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EnemyAIState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EnemySub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EntityManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Environment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\EriKasamoto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ExplosionBehavior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ExplosionVisual.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FatState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FiolinaGermi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FirePool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlameShotGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlyingState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FlyingTara.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Food.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\FractalNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GameConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GameState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GameStateManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GrenadeSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GrenadeWeapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GroundEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\GroundVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HairBusterRiberts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HeavyMachineGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HorizontalProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HoverState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\HUD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\INoiseProfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\InterfaceWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\IronNokana.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\LaserGun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\LevelManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\M15ABradley.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MarcoRossi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MartianAir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MartianGround.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MenuState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MetalSlug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ModeSelectState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MummyState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\MummyWarrior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\NoiseProfiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\NormalState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ParatrooperState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PatrolState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PerlinNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Pistol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PlayerSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\PowPrisoner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ProfileFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ProjectileManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\RebelSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\RocketLauncher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ScoreManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SeaSatan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SelfPlayState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\ShieldedSoldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SlugFlyer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SlugMariner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Soldier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Spectrum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Straight Projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SupplyCrate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\SurvivalState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Tarma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\TimeLineRecorder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\TransformationState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\UltimateBoss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\UndeadState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\VehicleState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\WavHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Whisper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25i-0948_25i-0579\25i-0948_25i-0579_Headers\Zombie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
